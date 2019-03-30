@@ -19,7 +19,7 @@ print ('''\033[1m\033[93m[\033[91m!\033[93m] Tools Priv8 IP Host Python \n \033[
  ''')
 print"\033[1;31mEksekusi \033[1;34m: \033[1;37m[Windows]python \033[1;31m& \033[1;37m[Termux]python2 \033[1;34mip-host.py"
 
-print ('\033[1;31m----------------------------------\033[1;34m( \033[1;33mWELCOME My Tools IP Host \033[1;34m)\033[1;31m-------------------------------------\033[1;37m\n')
+print ('\033[1;31m----------\033[1;34m( \033[1;33mWELCOME My Tools IP Host \033[1;34m)\033[1;31m----------\033[1;37m\n')
 
 def Miscript():
 	print'\a[Welcomback Tools Ip Host]'
