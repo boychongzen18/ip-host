@@ -2,7 +2,7 @@
 
 # Windows & Termux Working
 
-# Tampilan Windows Scanning Bug
+# Tampilan Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/ip-host/master/windows.png)
 ===============================================================================
 # Tampilan Termux
